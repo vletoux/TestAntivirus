@@ -119,6 +119,14 @@ namespace PingCastle
 			{"mfevtp", "MacAfee Validation Trust Protection Service"},
 			{"mfewc", "MacAfee Endpoint Security Web Control Service"},
 			
+			{"cyverak", "PaloAlto Traps KernelDriver"},
+			{"cyvrmtgn", "PaloAlto Traps KernelDriver"},
+			{"cyvrfsfd", "PaloAlto Traps FileSystemDriver"},
+			{"cyserver", "PaloAlto Traps Reporting Service"},
+			{"CyveraService", "PaloAlto Traps"},
+			{"tlaservice", "PaloAlto Traps Local Analysis Service"},
+			{"twdservice", "PaloAlto Traps Watchdog Service"},
+			
 			{"SentinelAgent", "SentinelOne"},
 			{"SentinelHelperService", "SentinelOne"},
 			{"SentinelStaticEngine ", "SentinelIbe Static Service"},
