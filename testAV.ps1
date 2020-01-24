@@ -84,7 +84,9 @@ namespace PingCastle
 			{"epredline", "Bitdefender Endpoint Redline Services"},
 			{"EPSecurityService", "Bitdefender Endpoint Security Service"},
 			{"EPUpdateService", "Bitdefender Endpoint Update Service"},
-
+			
+			{"CSFalconService", "CrowdStrike Falcon Sensor Service"}, 	
+			
 			{"CylanceSvc", "Cylance"}, 
 
 			{"epfw", "ESET"}, 
